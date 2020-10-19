@@ -1,4 +1,4 @@
-function isSameUSer(userA,userB){
+function isSameUser(userA,userB){
     return(userA.email === userB.email);
 }
 
